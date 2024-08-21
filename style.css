@@ -41,7 +41,7 @@
     src: url(font2.otf);
 }
 .welcome{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 600;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #FFB6C1;
@@ -55,7 +55,7 @@
     padding-left: 3%;
     display: inline-block;
     width: 30%;
-    font-size: 40px;
+    font-size: 50px;
     color: #FFB6C1;
 }
 .search{
